@@ -1,0 +1,9 @@
+Pasos para crear una estructura en un algoritmo de notas:
+
+Inicio 
+1.Solicitar nota de parciales 1, 2 y 3 
+2.Solicitar nota de examen final 
+3.Sumar las notas ingresadas 
+4.guardar la suma en la variable resultado 
+8.si el resultado es mayor o igual a 61 mostrar "aprobado"
+Fin
